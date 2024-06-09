@@ -8,3 +8,6 @@
     Server:
       windows : Socket-Server.exe [ port ]
       Linux   : ./Socket-Server [ port ]
+      
+    Client:
+      Windows : Socket-Client.exe [ serverip:serverport ] [ proxyPort ]
