@@ -2,9 +2,9 @@
 ### 测试环境：
   Windows 11 x64
   Linux kali (debian) x64
-### 使用方法：
--
-  Server:
-  Windows :  
-    Socket-Server.exe [ port ]  # (Socket-Server.exe 8080)
 
+使用方法：
+-
+    Server:
+      windows : Socket-Server.exe [ port ]
+      Linux   : ./Socket-Server [ port ]
